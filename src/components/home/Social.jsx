@@ -17,7 +17,7 @@ const Social = () => {
         target="_blank"
         rel="noreferrer"
       >
-        <i class="uil uil-instagram"></i>
+        <i class="uil uil-instagram-alt"></i>
       </a>
       <a
         href="https://github.com/Optickal095"
